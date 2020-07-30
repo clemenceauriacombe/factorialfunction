@@ -1,0 +1,2 @@
+# factorialfunction
+Calcul : factorielles
